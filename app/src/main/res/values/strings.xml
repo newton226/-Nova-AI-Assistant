@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nova Assistant</string>
+    <string name="listening">Nova inasikiliza...</string>
+    <string name="thinking">Nova inafikiria...</string>
+    <string name="speaking">Nova inazungumza...</string>
+    <string name="tap_to_speak">Gusa kuzungumza</string>
+    <string name="say_hello">Sema "Habari Nova" kuanza</string>
+    <string name="nova_ready">Nova iko tayari!</string>
+    <string name="nova_greeting">Habari! Mimi ni Nova, msaidizi wako wa AI</string>
+    <string name="settings">Mipangilio</string>
+    <string name="voice_settings">Mipangilio ya Sauti</string>
+    <string name="whatsapp_settings">Mipangilio ya WhatsApp</string>
+    <string name="accessibility_settings">Mipangilio ya Upatikanaji</string>
+    <string name="accessibility_description">Nova Assistant inatumia accessibility kudhibiti simu yako kwa uhalali. Ruhusu ili Nova isaidie kufanya kazi nzuri zaidi.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nova_primary">#6C63FF</color>
+    <color name="nova_primary_dark">#5A52D5</color>
+    <color name="nova_accent">#00D9FF</color>
+    <color name="nova_background">#0F0F23</color>
+    <color name="nova_surface">#1A1A3E</color>
+    <color name="nova_text_primary">#FFFFFF</color>
+    <color name="nova_text_secondary">#B0B0B0</color>
+    <color name="nova_glow">#806C63FF</color>
+    <color name="nova_pulse">#406C63FF</color>
+    <color name="whatsapp_green">#25D366</color>
+    <color name="error_red">#FF5252</color>
+</resources>

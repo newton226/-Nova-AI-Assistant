@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="150"
+    android:viewportHeight="150">
+    
+    <!-- Background Circle -->
+    <path
+        android:pathData="M75,75m-70,0a70,70 0,1 1,140 0a70,70 0,1 1,-140 0"
+        android:fillColor="@color/nova_primary" />
+    
+    <!-- Inner Circle -->
+    <path
+        android:pathData="M75,75m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+        android:fillColor="@color/nova_surface" />
+    
+    <!-- N Letter -->
+    <path
+        android:pathData="M55,95L55,55L65,55L65,85L85,55L95,55L95,95L85,95L85,65L65,95Z"
+        android:fillColor="@color/nova_accent" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NovaAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/nova_primary</item>
+        <item name="colorPrimaryDark">@color/nova_primary_dark</item>
+        <item name="colorAccent">@color/nova_accent</item>
+        <item name="android:windowBackground">@color/nova_background</item>
+        <item name="android:statusBarColor">@color/nova_background</item>
+        <item name="android:navigationBarColor">@color/nova_background</item>
+    </style>
+</resources>
